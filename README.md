@@ -1,5 +1,7 @@
 # ZhuaTech DataMask · 知华数据脱敏工具
 
+[简体中文](README.md) | [English](README.en.md)
+
 上海如静知华信息科技有限公司社区源码工具，面向开发、测试和数据交换场景提供可解释的字段脱敏预览。[官网](https://www.zhuatech.cn/)
 
 ![DataMask](docs/images/workspace.svg)
